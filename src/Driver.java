@@ -12,5 +12,4 @@ public class Driver {
         System.out.println("Close the GUI to exit.");
         gui.updateGUI(1);
     }
-
 }
